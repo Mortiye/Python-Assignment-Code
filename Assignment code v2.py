@@ -309,7 +309,7 @@ def login():
         customer_details.close()
 
         if not found:
-            print('Login failed. Please check your account number and password.')
+            print('Login failed. Please jhj your account number and password.')
 
     customer_options()
 
